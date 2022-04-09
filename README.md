@@ -35,9 +35,9 @@ A webpack dev environment that can be used for multiple projects. Feel free to r
     - [Export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 
 3. Webpack Official Documentation
-- [Concepts](https://webpack.js.org/concepts/)
-- [Configuration](https://webpack.js.org/configuration/)
-- [Getting Started](https://webpack.js.org/guides/getting-started/)
+    - [Concepts](https://webpack.js.org/concepts/)
+    - [Configuration](https://webpack.js.org/configuration/)
+    - [Getting Started](https://webpack.js.org/guides/getting-started/)
 
 
 
