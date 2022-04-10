@@ -1,1 +1,3 @@
-console.log(123);
+import generateQuote from "./generateQuote";
+
+console.log(generateQuote());
