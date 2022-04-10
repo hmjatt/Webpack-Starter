@@ -36,8 +36,18 @@ h3 {
   letter-spacing: 2px;
 }
 
+#imagesContainer {
+  display: flex;
+  justify-content: center;
+}
+
+#threeDotsImg {
+  width: 60px;
+  margin: 20px;
+}
+
 img {
-  width: 100px;
+  width: 80px;
   margin-bottom: 20px;
 }
 
