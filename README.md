@@ -1,13 +1,10 @@
 # Webpack-Starter
 
 
-<!-- 
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/Quote.jpg)
 
 
-![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/page1.jpg) -->
-
-
-A webpack dev environment that can be used for multiple projects. Created Random Quote Generator while using [Zen Quotes API](https://zenquotes.io/) Feel free to reach me at [Twitter](https://twitter.com/hmjatt/)
+A Webpack Frontend environment that can be used for building JavaScript applications. Created Random Quote Generator while using [Type Fit API](https://type.fit/api/quotes/) Feel free to reach me at [Twitter](https://twitter.com/hmjatt/)
 
 
 
@@ -23,6 +20,31 @@ A webpack dev environment that can be used for multiple projects. Created Random
 
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img style="margin-top:40px;" src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.svg" alt="webpack" width="180" height="100"/> </a>  &emsp;   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img style="margin-top:20px;" src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="npm" width="120" height="70"/> </a>
 
+
+
+## Includes the following features
+
+    - Babel Loader
+    - Sass Loader With Dart Sass
+    - HTMLWebpackPlugin
+    - WebpackDevServer
+    - Asset Resource Loader
+    - Source Maps
+    - Caching
+
+## Usage
+
+Run Dev Server (Port 3000)
+
+    ```
+    npm run dev
+    ```
+
+## Build for production
+
+    ```
+    npm run build
+    ```
 
 
 ### Links to content that helped me with this project
