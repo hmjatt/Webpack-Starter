@@ -6,8 +6,8 @@
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve",
-    "predeploy": "npm run dev",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "npm run dev&&gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/hmjatt/Webpack-Starter/issues"
   },
-  "homepage": "https://github.com/hmjatt/Webpack-Starter/tree/main/dist",
+  "homepage": "https://github.com/hmjatt/Webpack-Starter",
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
