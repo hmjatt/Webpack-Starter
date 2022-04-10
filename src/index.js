@@ -13,4 +13,7 @@ threeDotsImg.src = threeDots;
 const rightQuoteImg = document.getElementById('rightQuoteImg');
 rightQuoteImg.src = rightQuote;
 
-console.log(generateQuote());
+const quotesBtn = document.getElementById('quoteBtn');
+quotesBtn.addEventListener('click', generateQuote);
+
+generateQuote();
