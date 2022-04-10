@@ -7,7 +7,7 @@
 ![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/page1.jpg) -->
 
 
-A webpack dev environment that can be used for multiple projects. Feel free to reach me at [Twitter](https://twitter.com/hmjatt/)
+A webpack dev environment that can be used for multiple projects. Created Random Quote Generator while using [Zen Quotes API](https://zenquotes.io/) Feel free to reach me at [Twitter](https://twitter.com/hmjatt/)
 
 
 
