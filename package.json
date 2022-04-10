@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/hmjatt/Webpack-Starter/issues"
   },
-  "homepage": "https://github.com/hmjatt/Webpack-Starter",
+  "homepage": "https://github.com/hmjatt/Webpack-Starter/tree/main/dist",
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
