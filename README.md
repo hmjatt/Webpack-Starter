@@ -2,7 +2,7 @@
 
 
 
-    [Live Preview](https://hmjatt.github.io/Webpack-Starter/)
+[Live Preview](https://hmjatt.github.io/Webpack-Starter/)
 
 
 
