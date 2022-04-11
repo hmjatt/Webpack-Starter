@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hmjatt/Webpack-Starter.git"
+    "url": "git+https://github.com/hmjatt/Webpack-Starter/tree/main/dist.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hmjatt/Webpack-Starter/issues"
   },
-  "homepage": "https://github.com/hmjatt/Webpack-Starter/tree/main/dist",
+  "homepage": "https://github.com/hmjatt/Webpack-Starter/tree/main/dist.git",
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
