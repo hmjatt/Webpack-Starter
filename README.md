@@ -1,19 +1,12 @@
 # Webpack-Starter
 
-
-
-[Live Preview](https://hmjatt.github.io/Webpack-Starter/)
-
-
+## [Live Preview](https://hmjatt.github.io/Webpack-Starter/)
 
 
 ![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/Quote_app.png)
 
 
 A Webpack Frontend environment that can be used for building JavaScript applications. Created Random Quote Generator while using [Type Fit API](https://type.fit/api/quotes/) Feel free to reach me at [Twitter](https://twitter.com/hmjatt/)
-
-
-
 
 
 ### Technologies Used
